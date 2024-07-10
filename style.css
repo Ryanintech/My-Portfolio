@@ -303,7 +303,7 @@ span {
 .about-content {
     text-align: center;
     border: 2px solid var(--main-color);
-    padding-bottom: 0;
+    padding-bottom: 5px;
     background: var(--bg-color);
     border-radius: 20px;
     color: var(--text-color);
